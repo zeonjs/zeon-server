@@ -1,0 +1,31 @@
+{
+  "name": "zeon-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeonjs/zeon-server.git"
+  },
+  "keywords": [
+    "zeon",
+    "zeon-server"
+  ],
+  "author": "Zhen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeonjs/zeon-server/issues"
+  },
+  "homepage": "https://github.com/zeonjs/zeon-server#readme",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "chalk": "^1.0.0",
+    "cookie-parser": "^1.3.5",
+    "express": "^4.12.4",
+    "lodash": "^3.9.3",
+    "morgan": "^1.5.3"
+  }
+}
